@@ -1,0 +1,53 @@
+**/.idea/*
+**/.scannerwork/*
+**/.sonar/*
+**/.vscode/*
+*DS_Store*
+.htaccess
+.phpstorm.meta.php
+.svn/*
+Thumbs.db
+log/*
+shix/*
+vendor/*
+config/
+
+syntax: glob
+*.config.php
+*config/modules.php
+*log/*
+*.svn/*
+*._mod*
+*.htaccess
+.idea/*
+
+# Modulspecifikt
+*modules/PearLoader/PEAR/*
+*modules/PearLoader/temp/*
+*modules/PearLoader/bin/*
+*modules/PearLoader/pear.conf
+*modules/PearLoader/index.php # Not sure about this file
+
+modules/DBUserHandler/html/multiaccounts.php
+modules/IpBlock/udger.dat
+admin
+
+#Composer stuff
+vendor/**
+
+modules/Licensed/IT/templates/cache/*
+modules/BoxHandler/templates/cache/*
+
+# Codeception
+tests/_output/*
+tests/_support/_generated/*
+
+# Phpunit results
+.phpunit.result*
+/.phpunit.cache
+
+# Config repository env variables
+.env
+config-new
+.php-cs-fixer.cache
+storage/*

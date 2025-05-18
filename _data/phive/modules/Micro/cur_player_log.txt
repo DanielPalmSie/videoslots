@@ -1,0 +1,43 @@
+Current Time: 2025-04-09 09:36:03
+Current Player Data:
+DBUser Object
+(
+    [userId] => 5541343
+    [data] => Array
+        (
+            [id] => 5541343
+            [email] => devtest6@devtest.com
+            [mobile] => 44321456987456
+            [country] => MT
+            [last_login] => 2025-04-09 09:34:47
+            [newsletter] => 0
+            [sex] => Male
+            [lastname] => Stiller
+            [firstname] => Ben
+            [address] => 45 Baker Street
+            [city] => Kent
+            [zipcode] => HU4578MU
+            [dob] => 1910-05-07
+            [preferred_lang] => en
+            [username] => devtestmt
+            [password] => c79194b0356573ee78398fc6486b4644
+            [bonus_code] => 
+            [register_date] => 2015-08-10
+            [cash_balance] => 1999956695
+            [bust_treshold] => 0
+            [reg_ip] => 217.174.248.203
+            [active] => 1
+            [verified_phone] => 0
+            [friend] => 
+            [alias] => Ben
+            [last_logout] => 2025-04-04 11:50:57
+            [cur_ip] => 172.18.0.1
+            [logged_in] => 1
+            [currency] => EUR
+            [affe_id] => 0
+            [nid] => 
+        )
+
+)
+
+----------------------------------------
