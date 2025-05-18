@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/phive/modules/Licensed/Libraries/GamStop/Single/V1/test/Api" />
+        <option value="$PROJECT_DIR$/phive/tests" />
+        <option value="$PROJECT_DIR$/phive/tests/Unit/Modules/Licensed/ES/ICS" />
+        <option value="$PROJECT_DIR$/phive/modules/IdScan/tests" />
+        <option value="$PROJECT_DIR$/phive/modules/DBUserHandler/Registration/tests" />
+        <option value="$PROJECT_DIR$/phive/modules/Site/tests" />
+      </list>
+    </option>
+  </component>
+</project>

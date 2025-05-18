@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/app-tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/app-tests/tests/unit" isTestSource="false" packagePrefix="Tests\Unit\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/DBUserHandler/Registration/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/IdScan/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/Libraries/GamStop/Single/V1/test/Api" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Site/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/tests" isTestSource="false" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/tests/Unit/Modules/Licensed/ES/ICS" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/ClosedLoop" isTestSource="false" packagePrefix="ClosedLoop\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/DBUserHandler" isTestSource="false" packagePrefix="DBUserHandler\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Former/Libraries" isTestSource="false" packagePrefix="FormerLibrary\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/GamesRecommendations" isTestSource="false" packagePrefix="GamesRecommendations\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/GeoComply" isTestSource="false" packagePrefix="GeoComply\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/History" isTestSource="false" packagePrefix="History\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/IdScan" isTestSource="false" packagePrefix="IdScan\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed" isTestSource="false" packagePrefix="Licensed\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/CA" isTestSource="false" packagePrefix="CA\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/ES" isTestSource="false" packagePrefix="ES\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/IT" isTestSource="false" packagePrefix="IT\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/Libraries/GamStop/Single/V1/lib" isTestSource="false" packagePrefix="Swagger\Client\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Licensed/Libraries/GamStop/Single/V1/test" isTestSource="true" packagePrefix="Swagger\Client\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/Mosms" isTestSource="false" packagePrefix="Mosms\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/PayNPlay" isTestSource="false" packagePrefix="PayNPlay\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/RgEvaluation" isTestSource="false" packagePrefix="RgEvaluation\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/modules/XML" isTestSource="false" packagePrefix="XML\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/src" isTestSource="false" packagePrefix="Videoslots\" />
+      <sourceFolder url="file://$MODULE_DIR$/phive/vendor/vlucas/phpdotenv" isTestSource="false" packagePrefix="Dotenv\" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/behat/gherkin" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/codeception" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/lib-asserts" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/lib-innerbrowser" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/module-asserts" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/module-phpbrowser" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/module-rest" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/phpunit-wrapper" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/codeception/stub" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/davidepastore/codice-fiscale" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/php-amqplib/php-amqplib" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/rakit/validation" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/robrichards/wse-php" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/robrichards/xmlseclibs" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/softcreatr/jsonpath" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/app-tests/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/adamwojs/php-cs-fixer-phpdoc-force-fqcn" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/aws/aws-crt-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/aws/aws-php-sns-message-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/aws/aws-sdk-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/caseyamcl/guzzle_retry_middleware" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/chdemko/sorted-collections" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/daursu/laravel-zero-downtime-migration" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/davidepastore/codice-fiscale" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/deeplcom/deepl-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/exussum12/xxhash" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/fabpot/goutte" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/friendsofphp/php-cs-fixer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/geoip2/geoip2" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/google/crc32" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/broadcasting" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/bus" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/config" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/console" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/container" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/database" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/http" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/macroable" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/mail" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/notifications" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/pipeline" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/queue" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/session" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/intervention/image" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ip2location/ip2location-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ip2location/ip2proxy-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-http" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-loader" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-mail" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-mime" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-servicemanager" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-uri" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laminas/laminas-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/longlang/phpkafka" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/maxmind-db/reader" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/maxmind/minfraud" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/maxmind/web-service-common" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/mtdowling/jmespath.php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nelexa/zip" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/parsecsv/php-parsecsv" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/pestphp/pest" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/pestphp/pest-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-amqplib/php-amqplib" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/discovery" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/multipart-stream-builder" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php2wsdl/php2wsdl" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpcompatibility/php-compatibility" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/predis/predis" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/rakit/validation" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/respect/stringifier" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/respect/validation" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/rg/avro-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/robrichards/wse-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/robrichards/xmlseclibs" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/snipe/banbuilder" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/sop/asn1" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/spatie/array-to-xml" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/spatie/laravel-package-tools" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/udger/udger-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/videoslots/history_messages" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/videoslots/laraphive" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/videoslots/sharded" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/wingu/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/clue/stream-filter" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/client-common" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/logger-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/message" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/videoslots/mts-sdk-php" />
+      <excludeFolder url="file://$MODULE_DIR$/phive/vendor/components/jquery" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
