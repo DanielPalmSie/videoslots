@@ -1,0 +1,5 @@
+// .cashier-fee-list li, .cashier-fee-list-right li
+$cashier-fee-list--border-bottom: 1px $divider-light solid;
+
+// .show-payment-msg .mbox-msg-container
+$show-payment-msg-mbox-msg-container--height: calc(100dvh - 40px) !important;
