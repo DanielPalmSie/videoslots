@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_data/app-tests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_data/bostools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_data/diamondbet" vcs="Git" />
