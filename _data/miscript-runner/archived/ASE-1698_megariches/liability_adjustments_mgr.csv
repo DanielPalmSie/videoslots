@@ -1,0 +1,10 @@
+﻿user_id,currency,username,net_liab,opening,closing,diff,abs_diff,abs_diff_in_eur,mod,country,province,adjustment_amount,type,description,total_liability_amount,specific_liability_amount,liability_type,details
+4000036941,GBP,marie.balch75@gmail.com,5061,0,61,5000,5000,50,1,GB,,-5000,debit,Bonus balance issue.,0,-5000, , 
+4000036602,GBP,kyle1985spinks@gmail.com,5052,0,52,5000,5000,50,1,GB,,-5000,debit,Bonus balance issue.,0,-5000, , 
+4000038333,GBP,william.dacey5123336@gmail.com,2851,0,352,2499,2499,24.99,1,GB,,-2499,debit,Bonus balance issue.,0,-2499, , 
+4000036904,GBP,deepa.gurung75@gmail.com,2664,0,164,2500,2500,25,1,GB,,-2500,debit,Bonus balance issue.,0,-2500, , 
+4000030654,GBP,wall2wall4u@hotmail.com,2494,0,494,2000,2000,20,1,GB,,-2000,debit,Win not credited - microgaming.,0,-2000, , 
+4000036465,GBP,pharrison0707@yahoo.co.uk,-3900,0,0,-3900,3900,39,1,GB,,3900,credit,Pragmatic promo win.,0,3900, , 
+4000036576,GBP,kevin.oti94@gmail.com,2629,0,129,2500,2500,25,1,GB,,-2500,debit,Bonus balance issue.,0,-2500, , 
+4000031558,GBP,karensparks90@gmail.com,1546,250,1,1795,1795,17.95,1,GB,,-1795,debit,FRB not credited -  playngo. ,0,-1795, , 
+4000035369,GBP,duckercourtney04@icloud.com,5075,0,2575,2500,2500,25,1,GB,,-2500,debit,Bonus balance issue.,-2500,-2500,,

@@ -1,0 +1,7 @@
+id,year,month,user_id,type,main_cat,sub_cat,transactions,amount,currency,country,source,province,shard_id,cur_province,province_changes_pre,province_changes_post,province_changes_count,cur_country,nr_of_country_changes,new_country,new_province,register_date,country_changes
+82664299,2025,4,6655142,debit,28,"Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic, pragm",1,-150,CAD,CA,0,,77600823,QC,,,0,CA,0,CA,QC,28/01/2021,[]
+82664300,2025,4,6655142,credit,28,Win executed in Previous month but updated in Current month - pragmatic.,1,60,CAD,CA,0,,77600833,QC,,,0,CA,0,CA,QC,28/01/2021,[]
+82664301,2025,4,6655142,credit,28,Pragmatic Promo Win.,1,5400,CAD,CA,0,,77600843,QC,,,0,CA,0,CA,QC,28/01/2021,[]
+82664302,2025,4,6866995,credit,28,Pragmatic Promo Win.,1,1200,CAD,CA,0,,77128576,QC,,,0,CA,0,CA,QC,30/01/2022,[]
+82664303,2025,4,1967084626,credit,28,FRB not credited - playngo.,1,1165,CAD,CA,0,,78783587,ON,,,0,CA,0,CA,ON,30/10/2024,[]
+82664304,2025,4,5758507,debit,28,FRB not credited - pragmatic.,1,-3121,CAD,CA,0,,79530528,AB,,,0,CA,0,CA,AB,20/07/2018,[]

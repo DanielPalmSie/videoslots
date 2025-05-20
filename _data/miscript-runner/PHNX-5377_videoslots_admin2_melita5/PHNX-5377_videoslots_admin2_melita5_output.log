@@ -1,0 +1,33 @@
+Script start time: '2025-04-28 09:47:40'
+```shell
+EXECUTING COMMAND: console ics:rectify 2025-04-03 2025-04-03 RUD
+Finish Rectifying Reports UID: `67ef26039f215`
+EXECUTING COMMAND: console ics:rectify 2025-04-04 2025-04-04 RUD
+Finish Rectifying Reports UID: `67f0777e177cf`
+EXECUTING COMMAND: console ics:rectify 2025-04-05 2025-04-05 RUD
+Finish Rectifying Reports UID: `67f1c90d52dfe`
+EXECUTING COMMAND: console ics:rectify 2025-04-07 2025-04-07 RUD
+Finish Rectifying Reports UID: `67f46bf2af302`
+EXECUTING COMMAND: console ics:rectify 2025-04-08 2025-04-08 RUD
+Finish Rectifying Reports UID: `67f5bd68abacc`
+EXECUTING COMMAND: console ics:rectify 2025-04-09 2025-04-09 RUD
+Finish Rectifying Reports UID: `67f70ef2bbabf`
+EXECUTING COMMAND: console ics:rectify 2025-04-10 2025-04-10 RUD
+Finish Rectifying Reports UID: `67f86078d7247`
+EXECUTING COMMAND: console ics:rectify 2025-04-12 2025-04-12 RUD
+Finish Rectifying Reports UID: `67fb038566763`
+EXECUTING COMMAND: console ics:rectify 2025-04-14 2025-04-14 RUD
+Finish Rectifying Reports UID: `67fda66483f32`
+EXECUTING COMMAND: console ics:rectify 2025-04-15 2025-04-15 RUD
+Finish Rectifying Reports UID: `67fef7f057779`
+EXECUTING COMMAND: console ics:rectify 2025-04-16 2025-04-16 RUD
+Finish Rectifying Reports UID: `680049850d273`
+EXECUTING COMMAND: console ics:rectify 2025-04-20 2025-04-20 RUD
+Finish Rectifying Reports UID: `68058f7508b82`
+EXECUTING COMMAND: console ics:rectify 2025-04-21 2025-04-21 RUD
+Finish Rectifying Reports UID: `6806e0d8e65fc`
+
+```
+Script end time: '2025-04-28 09:56:21'
+FYI: @aleksandar.bekjarovski - script output for `videoslots_admin2_melita5`
+Story 'PHNX-5377': done

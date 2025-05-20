@@ -1,0 +1,30 @@
+Script start time: '2025-04-28 11:41:05'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:5551070  withdrawal_id:11981161 ext_id:QKF8G99KAYQ5C new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 6JY4N3M3CYEPE
+  MTS transaction updated
+user_id:6407760  withdrawal_id:11984871 ext_id:SK8CTFJM8MFT8 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to QUYBPY3PLG3Q8
+  MTS transaction updated
+user_id:5343690  withdrawal_id:11984281 ext_id:511148357253 new_status:approved  refund:no
+  PW: Setting status from processing to approved
+  PW: Setting ext_id from  to 511148357253
+  PW: Setting mts_id to 173277739
+  MTS no changes required
+user_id:6870366  withdrawal_id:12031497 ext_id:2BCL6SRGC5FV8 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 2L6VBZ3H8Y95E
+  MTS transaction updated
+DONE ----- 
+
+```
+Script end time: '2025-04-28 11:41:06'
+FYI: @mihailo.ilic - script output for `videoslots`
+Story 'ASE-1679': done

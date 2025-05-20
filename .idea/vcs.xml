@@ -6,6 +6,5 @@
     <mapping directory="$PROJECT_DIR$/_data/bostools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_data/diamondbet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_data/phive" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/_data/phive/config" vcs="Git" />
   </component>
 </project>

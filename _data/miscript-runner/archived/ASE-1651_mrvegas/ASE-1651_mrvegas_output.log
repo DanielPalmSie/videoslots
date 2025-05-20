@@ -1,0 +1,72 @@
+Script start time: '2025-04-17 10:42:33'
+```shell
+CRM Email Schedule 
+ Processing config id 178 to [8,14,18, 21,22,25,28,29] - value updated from [8,14,18] to [8,14,18, 21,22,25,28,29] 
+ Processing config id 179 to [30] - value already set to 30 
+ Processing config id 180 to [] - value already set to  
+ Processing config id 181 to [] - value already set to  
+ Processing config id 182 to [] - value already set to  
+ Processing config id 183 to [1,8,15,22,29] - value already set to 1,8,15,22,29 
+ Processing config id 188 to [] - value already set to  
+ Processing config id 208 to [27] - value already set to 27 
+ Processing config id 256 to [] - value already set to  
+ Processing config id 259 to [] - value already set to  
+ Processing config id 262 to [] - value already set to  
+ Processing config id 265 to [] - value already set to  
+ Processing config id 268 to [] - value already set to  
+ Processing config id 272 to [] - value already set to  
+ Processing config id 366 to [] - value already set to  
+ Processing config id 367 to [20] - value already set to 20 
+ Processing config id 411 to [12] - value already set to 12 
+ Processing config id 412 to [3,19] - value already set to 3,19 
+ Processing config id 413 to [5] - value already set to 5 
+ Processing config id 414 to [10,26] - value already set to 10,26 
+ Processing config id 415 to [24] - value already set to 24 
+ Processing config id 416 to [1,17] - value already set to 1,17 
+ Processing config id 417 to [8] - value already set to 8 
+ Processing config id 418 to [] - value already set to  
+ Processing config id 419 to [] - value already set to  
+ Processing config id 420 to [15] - value already set to 15 
+ Processing config id 421 to [] - value already set to  
+ Processing config id 422 to [] - value already set to  
+ Processing config id 423 to [22] - value already set to 22 
+ Processing config id 424 to [29] - value already set to 29 
+ Processing config id 425 to [] - value already set to  
+ Processing config id 889 to [] - value already set to  
+ Processing config id 890 to [] - value already set to  
+ Processing config id 891 to [18] - value already set to 18 
+ Processing config id 892 to [4] - value already set to 4 
+ Processing config id 893 to [] - value already set to  
+ Processing config id 894 to [] - value already set to  
+ Processing config id 895 to [] - value already set to  
+ Processing config id 896 to [25] - value already set to 25 
+ Processing config id 897 to [] - value already set to  
+ Processing config id 898 to [] - value already set to  
+ Processing config id 899 to [] - value already set to  
+ Processing config id 917 to [] - value already set to  
+ Processing config id 918 to [] - value already set to  
+ Processing config id 919 to [] - value already set to  
+ Processing config id 920 to [11] - value already set to 11 
+ Processing config id 921 to [] - value already set to  
+ Processing config id 1202 to [2,9,16,23,30] - value already set to 2,9,16,23,30 
+ Processing config id 93375 to [] - value already set to  
+ Processing config id 93376 to [] - value already set to  
+ Processing config id 93377 to [] - value already set to  
+ Processing config id 93378 to [17] - value already set to 17 
+ Processing config id 93379 to [] - value already set to  
+ Processing config id 93380 to [] - value already set to  
+ Processing config id 93381 to [] - value already set to  
+ Processing config id 93382 to [] - value already set to  
+ Processing config id 93383 to [] - value already set to  
+ Processing config id 93384 to [] - value already set to  
+ Processing config id 93385 to [] - value already set to  
+ Processing config id 93386 to [] - value already set to  
+ Processing config id 93387 to [3] - value already set to 3 
+ Processing config id 93388 to [] - value already set to  
+ Processing config id 93389 to [] - value already set to  
+DONE 1 rows updated ----- 
+
+```
+Script end time: '2025-04-17 10:42:33'
+FYI: @andresmunoz - script output for `mrvegas`
+Story 'ASE-1651': done

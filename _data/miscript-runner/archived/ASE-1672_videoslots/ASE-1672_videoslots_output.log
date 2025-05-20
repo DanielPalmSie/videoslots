@@ -1,0 +1,27 @@
+Script start time: '2025-04-24 11:04:48'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:6543775  withdrawal_id:12033416 ext_id:MRZ6WX537H25C new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to BEMQW2D65JVH4
+  MTS transaction updated
+user_id:1966948864  withdrawal_id:11897575 ext_id:UX4ALDVN6RHCY new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 4TGV635V26XV2
+  MTS transaction updated
+user_id:1967205649  withdrawal_id:11951980 ext_id:L3W8UK35DCKG4 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to EHA7TAMQ3W6GE
+  MTS transaction updated
+user_id:1967001619  withdrawal_id:11948230 ext_id:510059151012 new_status:approved  refund:no
+  WARNING: Pending withdrawal entry is already set with status approved - skipping entry!
+DONE ----- 
+
+```
+Script end time: '2025-04-24 11:04:48'
+FYI: @andres.munoz - script output for `videoslots`
+Story 'ASE-1672': done

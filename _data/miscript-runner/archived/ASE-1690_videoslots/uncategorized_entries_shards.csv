@@ -1,0 +1,2 @@
+id,year,month,user_id,type,main_cat,sub_cat,transactions,amount,currency,country,source,province,db,new_sub_cat
+77968559,2025,4,6514728,credit,5,not-categorized,22,3630,GBP,GB,0,,shard,yggdrasil

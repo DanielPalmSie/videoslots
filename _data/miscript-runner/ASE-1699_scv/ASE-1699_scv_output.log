@@ -1,0 +1,13 @@
+Script start time: '2025-05-06 08:05:04'
+```shell
+Executing command: artisan profile:re-link 4000025485 megariches 1967198182 videoslots
+Profile successfully fixed. New c999_id: 778113
+Executing command: artisan profile:re-link 877703 mrvegas 1967198182 videoslots
+Profile successfully fixed. New c999_id: 778113
+Executing command: artisan profile:re-link 4000011110 megariches 1967042057 videoslots
+Profile successfully fixed. New c999_id: 631290
+
+```
+Script end time: '2025-05-06 08:05:08'
+FYI: @mihailo.ilic - script output for `scv`
+Story 'ASE-1699': done

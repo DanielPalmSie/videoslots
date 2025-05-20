@@ -1,0 +1,40 @@
+Script start time: '2025-05-05 11:12:51'
+```shell
+
+Inserting liability adjustments from /home/gitlab-runner/misc-script-runner/ASE-1697_kungaslottet/liability_adjustments_ks.csv for 2025 4  ASE-1697
+Inserting PLR liability UserId:[3000039251]  Amount:[debit SEK -30]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000039251]  Amount:[SEK -30]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[3000039251]  Amount:[credit SEK 11030]  Description:[Wins not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000039251]  Amount:[SEK 11030]  Description:[Wins not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[3000038553]  Amount:[debit SEK -62007]  Description:[Wins not credited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000038553]  Amount:[SEK -62007]  Description:[Wins not credited - evolution.] ... Inserted
+Inserting PLR liability UserId:[3000040443]  Amount:[debit SEK -47200]  Description:[Wins not credited - multiple providers.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000040443]  Amount:[SEK -47200]  Description:[Wins not credited - multiple providers.] ... Inserted
+Inserting PLR liability UserId:[3000022703]  Amount:[debit SEK -40001]  Description:[Win not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000022703]  Amount:[SEK -40001]  Description:[Win not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[3000037903]  Amount:[credit SEK 14499]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000037903]  Amount:[SEK 14499]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[3000038213]  Amount:[credit SEK 11880]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000038213]  Amount:[SEK 11880]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[3000039653]  Amount:[debit SEK -10800]  Description:[Win not credited - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000039653]  Amount:[SEK -10800]  Description:[Win not credited - microgaming.] ... Inserted
+Inserting PLR liability UserId:[3000033284]  Amount:[debit SEK -57991]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000033284]  Amount:[SEK -57991]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[3000034425]  Amount:[debit SEK -271676]  Description:[Win not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000034425]  Amount:[SEK -271676]  Description:[Win not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[3000039005]  Amount:[credit SEK 13640]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000039005]  Amount:[SEK 13640]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[3000015505]  Amount:[debit SEK -12500]  Description:[Bet double debited - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000015505]  Amount:[SEK -12500]  Description:[Bet double debited - microgaming.] ... Inserted
+Inserting PLR liability UserId:[3000018206]  Amount:[debit SEK -21002]  Description:[Wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000018206]  Amount:[SEK -21002]  Description:[Wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[3000040776]  Amount:[credit SEK 13150]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000040776]  Amount:[SEK 13150]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[3000040237]  Amount:[credit SEK 16340]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[3000040237]  Amount:[SEK 16340]  Description:[FRB not credited - leander.] ... Inserted
+DONE ----- 
+
+```
+Script end time: '2025-05-05 11:12:51'
+FYI: @petronelmorosanu - script output for `kungaslottet`
+Story 'ASE-1697': done

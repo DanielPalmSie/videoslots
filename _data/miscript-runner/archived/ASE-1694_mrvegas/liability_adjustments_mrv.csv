@@ -1,0 +1,71 @@
+﻿user_id,currency,username,net_liab,opening,closing,diff,abs_diff,abs_diff_in_eur,mod,country,province,adjustment_amount,type,description,total_liability_amount,specific_liability_amount,liability_type,details
+863418,CAD,starjhawk@live.com,4379,0,9,4370,4370,43.7,1,CA,,-4370,debit,Multiple wins not credited - microgaming.,0,-4370, , 
+772929,CAD,magtulis.jereko@hotmail.com,1348,14,33,1329,1329,13.29,1,CA,,-1329,debit,FRB not credited - playngo. ,-340,-340,frb,playngo(340)
+236422,EUR,suomi.alvar@gmail.com,-4012,17,5,-4000,4000,40,1,FI,,4000,credit,Pragmatic Promo Win.,0,4000, , 
+574472,EUR,ristokoljonen44@gmail.com,1055,2,9,1048,1048,10.48,1,FI,,-1048,debit,FRB not credited - qspin. ,0,-1048, , 
+249852,EUR,jaana.herranen1@luukku.com,-1837,1001,202,-1038,1038,10.38,1,FI,,1038,credit,Pragmatic Promo Win.,0,1038, , 
+623533,EUR,stig.indigo@aland.net,-1866,980,1114,-2000,2000,20,1,AX,,2000,credit,FRB not credited - playngo. ,-120,-120,frb,playngo(120)
+623533,EUR,stig.indigo@aland.net,,,,,,,,AX,,,,Pragmatic Promo Win.,,2120, , 
+866583,EUR,shaser.sp@gmail.com,-2009,10,1,-2000,2000,20,1,IE,,2000,credit,Pragmatic Promo Win.,0,2000, , 
+683945,EUR,blizzery@gmail.com,3546,3,14,3535,3535,35.35,1,FI,,-3535,debit,FRB not credited - qspin. ,0,-3535, , 
+869050,GBP,mike.mcmahon@live.co.uk,21600,0,0,21600,21600,216,1,GB,,-21600,debit,Sportsbook win not credited - altenar.,0,-21600, , 
+876740,GBP,craighepburn25@icloud.com,-10042,88,46,-10000,10000,100,1,GB,,10000,credit,Pragmatic Promo Win.,0,10000, , 
+787160,GBP,nicolaeaton@hotmail.co.uk,17050,0,21050,-4000,4000,40,1,GB,,4000,credit,Bet executed in Previous month but updated in Current month - nyx. ,4000,-500,EOMBets,nyx(500)
+787160,GBP,nicolaeaton@hotmail.co.uk,,,,,,,,GB,,,,Win executed in Previous month but updated in Current month - nyx. ,,4500,EOMWins,nyx(4500)
+681770,GBP,justin.brereton1@virginmedia.com,2165,0,178,1987,1987,19.87,1,GB,,-1987,debit,FRB not credited - pragmatic. ,-32,-32,frb,pragmatic(32)
+681770,GBP,justin.brereton1@virginmedia.com,,,,,,,,GB,,,,Multiple wins not credited - nyx.,,-1955, , 
+602801,GBP,lil_garlick@hotmail.com,-4510,0,860,-5370,5370,53.7,1,GB,,5370,credit,Bet executed in Previous month but updated in Current month - nyx. ,-20,-20,EOMBets,nyx(20)
+602801,GBP,lil_garlick@hotmail.com,,,,,,,,GB,,,,Pragmatic Promo Win.,,5390, , 
+759891,GBP,claireyswan@icloud.com,3070,6,6,3070,3070,30.7,1,GB,,-3070,debit,Multiple wins not credited - nyx.,0,-3070, , 
+877411,GBP,d3007226@gmail.com,2105,0,5,2100,2100,21,1,GB,,-2100,debit,Multiple wins not credited - evolution.,0,-2100, , 
+617551,GBP,matthewlawlor2022@gmail.com,2002,0,0,2002,2002,20.02,1,GB,,-2002,debit,Multiple wins not credited - pragmatic.,0,-2002, , 
+871221,GBP,matt_r_hill@yahoo.co.uk,-6888,5550,12,-1350,1350,13.5,1,GB,,1350,credit,Pragmatic Promo Win.,0,1350, , 
+317631,GBP,parallelscounsellingmenny@gmail.com,1034,0,0,1034,1034,10.34,1,GB,,-1034,debit,Multiple wins not credited - nyx.,0,-1034, , 
+866932,GBP,mechange16@gmail.com,5000,0,0,5000,5000,50,1,GB,,-5000,debit,Sportsbook manual refunds.,0,-5000, , 
+664142,GBP,wba_brum@hotmail.co.uk,-3500,0,0,-3500,3500,35,1,GB,,3500,credit,Sportsbook win not credited - altenar.,0,3500, , 
+847992,GBP,mattmorrisconstruction@yahoo.co.uk,1718,9,2,1725,1725,17.25,1,GB,,-1725,debit,FRB not credited - nolimit. ,-1725,-1725,frb,nolimit(1725)
+880612,GBP,Sbteam140@gmail.com,1234,0,14,1220,1220,12.2,1,GB,,-1220,debit,Multiple wins not credited - pragmatic.,0,-1220, , 
+766442,GBP,kazcuz@gmail.com,1274,0,74,1200,1200,12,1,GB,,-1200,debit,Win not credited - nyx.,0,-1200, , 
+845262,GBP,Kellyasweeney@hotmail.co.uk,1033,0,0,1033,1033,10.33,1,JE,,-1033,debit,FRB not credited - qspin. ,0,-1033, , 
+888752,GBP,iain_kirkpatrick@hotmail.co.uk,-997,0,23,-1020,1020,10.2,1,GB,,1020,credit,Pragmatic Promo Win.,0,1020, , 
+645303,GBP,jamesshaw485@hotmail.com,9755,2,6000,3757,3757,37.57,1,GB,,-3757,debit,FRB not credited - leander. ,0,-3757, , 
+771503,GBP,Kerrynoseworthy82@gmail.com,3393,0,16,3377,3377,33.77,1,GB,,-3377,debit,FRB not credited - leander. ,0,-3377, , 
+585523,GBP,k8e_1982@hotmail.co.uk,3046,2,438,2610,2610,26.1,1,GB,,-2610,debit,Multiple wins not credited - nyx.,0,-2610, , 
+868764,GBP,natalie.bowler01@gmail.com,-17983,7998,7,-9992,9992,99.92,1,GB,,9992,credit,Pragmatic Promo Win.,0,9992, , 
+771734,GBP,charlieggifford@hotmail.com,-2527,7,4,-2524,2524,25.24,1,GB,,2524,credit,Pragmatic Promo Win.,0,2524, , 
+501724,GBP,rhenrydjpedro@gmail.com,2505,3,6,2502,2502,25.02,1,GB,,-2502,debit,FRB not credited - pragmatic. ,-2,-2,frb,pragmatic(2)
+501724,GBP,rhenrydjpedro@gmail.com,,,,,,,,GB,,,,Win not credited - pragmatic.,,-2500, , 
+876494,GBP,elainecoll36@gmail.com,-2545,982,21,-1584,1584,15.84,1,GB,,1584,credit,Pragmatic Promo Win.,0,1584, , 
+292514,GBP,veresheni@gmail.com,1275,15,0,1290,1290,12.9,1,GB,,-1290,debit,Win not credited - nyx.,0,-1290, , 
+853745,GBP,bperrinburgess@icloud.com,-58323,0,11,-58334,58334,583.34,1,GB,,58334,credit,Winning bet on the game Caboolture FC vs. Southside Eagles on the 4th of April was paid out three times instead of once. ,0,58334, , 
+652675,GBP,przemo1906cpg@gmail.com,7322,0,0,7322,7322,73.22,1,GB,,-7322,debit,Multiple wins not credited - nyx.,0,-7322, , 
+883855,GBP,vicky19841980@yahoo.com,2094,0,0,2094,2094,20.94,1,GB,,-2094,debit,Sportsbook win not credited - altenar.,0,-2094, , 
+424565,GBP,david_read@live.co.uk,-1191,1,10,-1200,1200,12,1,GB,,1200,credit,Pragmatic Promo Win.,0,1200, , 
+885136,GBP,w_palmer@icloud.com,73418,0,0,73418,73418,734.18,1,GB,,-73418,debit,Multiple wins not credited - nyx.,0,-73418, , 
+868296,GBP,yarop95@gmail.com,15073,0,73,15000,15000,150,1,GB,,-15000,debit,Sportsbook win not credited - altenar.,0,-15000, , 
+698846,GBP,Declanfurey80@gmail.com,3680,0,0,3680,3680,36.8,1,GB,,-3680,debit,Sportsbook win not credited - altenar.,0,-3680, , 
+597066,GBP,matthewjones343@hotmail.co.uk,19690,190,21780,-1900,1900,19,1,GB,,1900,credit,Bet executed in Previous month but updated in Current month - pariplay. ,1900,-200,EOMBets,pariplay(200)
+597066,GBP,matthewjones343@hotmail.co.uk,,,,,,,,GB,,,,Win executed in Previous month but updated in Current month - pariplay. ,,2100,EOMWins,pariplay(2100)
+859787,GBP,bmarrtin@yahoo.co.uk,16086,478,10042,6522,6522,65.22,1,GB,,-6522,debit,FRB not credited - pragmatic. ,0,-6522, , 
+886527,GBP,liam4asroma@hotmail.co.uk,3559,0,8,3551,3551,35.51,1,GB,,-3551,debit,Sportsbook win not credited - altenar.,0,-3551, , 
+748067,GBP,anzhela1,-15535,17361,14,1812,1812,18.12,1,GB,,-1812,debit,Win executed in Previous month but updated in Current month - pariplay. ,0,-1812, , 
+717427,GBP,missncs@hotmail.co.uk,1195,0,0,1195,1195,11.95,1,GB,,-1195,debit,Multiple wins not credited - pragmatic.,0,-1195, , 
+739478,GBP,kelst1980@gmail.com,-3440,5,1665,-5100,5100,51,1,GB,,5100,credit,Pragmatic Promo Win.,0,5100, , 
+504318,GBP,writeon007@gmail.com,4284,0,0,4284,4284,42.84,1,GB,,-4284,debit,Sportsbook win not credited - altenar.,0,-4284, , 
+665148,GBP,roisin.allison@hotmail.com,1694,6,1,1699,1699,16.99,1,GB,,-1699,debit,FRB not credited - leander. ,0,-1699, , 
+885019,GBP,jtomlinson210889@gmail.com,15908,0,75,15833,15833,158.33,1,GB,,-15833,debit,Sportsbook win not credited - altenar.,0,-15833, , 
+864049,GBP,cainferns07@gmail.com,14427,0,185,14242,14242,142.42,1,GB,,-14242,debit,FRB not credited - playngo. ,-2,-2,frb,playngo(2)
+864049,GBP,cainferns07@gmail.com,,,,,,,,GB,,,,Multiple wins not credited - nyx.,,-14240, , 
+886599,GBP,nadimhussain800@outlook.com,10223,0,5423,4800,4800,48,1,GB,,-4800,debit,Sportsbook win not credited - altenar.,0,-4800, , 
+695689,GBP,Ksmurf1111@me.com,2400,0,0,2400,2400,24,1,GB,,-2400,debit,Win not credited - evolution.,0,-2400, , 
+306969,GBP,adamross2@live.co.uk,1873,3,18,1858,1858,18.58,1,GB,,-1858,debit,FRB not credited - qspin. ,0,-1858, , 
+572079,GBP,liam.oxley99@googlemail.com,3408,7,2315,1100,1100,11,1,GB,,-1100,debit,Bet double debited - evolution.,0,-1100, , 
+631300,SEK,elisabeth.hornfeldt@yahoo.se,28894,185,59,29020,29020,29.02,10,SE,,-29020,debit,FRB not credited - nolimit. ,-29020,-29020,frb,nolimit(29020)
+361653,SEK,mariasjoberg74@gmail.com,-13961,78,3307,-17190,17190,17.19,10,SE,,17190,credit,"FRB not credited - leander, leander, nolimit. ",-4750,-4750,frb,"nolimit(3990), leander(360), leander(400)"
+361653,SEK,mariasjoberg74@gmail.com,,,,,,,,SE,,,,FRB not credited - nolimit. ,,21940, , 
+409263,SEK,miiaaa_89@icloud.com,16216,10,6,16220,16220,16.22,10,SE,,-16220,debit,FRB not credited - qspin. ,0,-16220, , 
+460545,SEK,mikkopaavola1@hotmail.com,23509,7,6,23510,23510,23.51,10,SE,,-23510,debit,FRB not credited - qspin. ,0,-23510, , 
+358617,SEK,caroline999@yahoo.se,-40067,57637,4320,13250,13250,13.25,10,SE,,-13250,debit,FRB not credited - nolimit. ,-450,-450,frb,nolimit(450)
+358617,SEK,caroline999@yahoo.se,,,,,,,,SE,,,,Bet double debited - evolution.,,-12800, , 
+882307,SEK,victorbvallgren@hotmail.com,54659,0,41812,12847,12847,12.847,10,SE,,-12847,debit,Sportsbook win not credited - altenar.,0,-12847, , 
+274159,SEK,tjubbe6@hotmail.com,14740,0,0,14740,14740,14.74,10,SE,,-14740,debit,FRB not credited - qspin. ,0,-14740, , 

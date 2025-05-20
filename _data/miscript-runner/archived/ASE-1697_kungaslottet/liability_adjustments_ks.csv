@@ -1,0 +1,16 @@
+user_id,currency,username,net_liab,opening,closing,diff,abs_diff,abs_diff_in_eur,mod,country,province,adjustment_amount,type,description,total_liability_amount,specific_liability_amount,liability_type,details
+3000039251,SEK,nystromkevin266@gmail.com,-10970,0,30,-11000,11000,11,10,SE,,11000,credit,FRB not credited - leander. ,-30,-30,frb,leander(30)
+3000039251,SEK,nystromkevin266@gmail.com,,,,,,,,SE,,,,Wins not credited - pragmatic.,,11030, , 
+3000038553,SEK,Irre.82@gmail.com,62009,0,2,62007,62007,62.007,10,SE,,-62007,debit,Wins not credited - evolution.,0,-62007, , 
+3000040443,SEK,jonathan.thoern@gmail.com,1542230,0,1495030,47200,47200,47.2,10,SE,,-47200,debit,Wins not credited - multiple providers.,-47200,-47200,frb,leander(1495030)
+3000022703,SEK,fabian.shamsi@gmail.com,38877,1260,136,40001,40001,40.001,10,SE,,-40001,debit,Win not credited - playngo.,0,-40001, , 
+3000037903,SEK,claudia_pedrini@hotmail.com,-11154,11330,14675,-14499,14499,14.499,10,SE,,14499,credit,FRB not credited - leander. ,14499,14499,frb,leander(14500)
+3000038213,SEK,hansson.fanny1234@gmail.com,110,0,11990,-11880,11880,11.88,10,SE,,11880,credit,FRB not credited - leander. ,11880,11880,frb,leander(11880)
+3000039653,SEK,scott.faint02@gmail.com,10890,0,90,10800,10800,10.8,10,SE,,-10800,debit,Win not credited - microgaming.,-10800,-10800,frb,leander(30)
+3000033284,SEK,vladisvedo@hotmail.com,57991,0,0,57991,57991,57.991,10,SE,,-57991,debit,Sportsbook win not credited - altenar.,0,-57991, , 
+3000034425,SEK,alexander@qtas.se,271991,2,317,271676,271676,271.676,10,SE,,-271676,debit,Win not credited - pragmatic.,0,-271676, , 
+3000039005,SEK,maria.k3@hotmail.com,500,0,14140,-13640,13640,13.64,10,SE,,13640,credit,FRB not credited - leander. ,13640,13640,frb,leander(13640)
+3000015505,SEK,mariaannakjellgren@gmail.com,12500,19,19,12500,12500,12.5,10,SE,,-12500,debit,Bet double debited - microgaming.,0,-12500, , 
+3000018206,SEK,wemanis.m@outlook.com,21059,0,57,21002,21002,21.002,10,SE,,-21002,debit,Wins not credited - nyx.,0,-21002, , 
+3000040776,SEK,alvalielandin@hotmail.com,170,0,13320,-13150,13150,13.15,10,SE,,13150,credit,FRB not credited - leander. ,13150,13150,frb,leander(13150)
+3000040237,SEK,can.dagal00@outlook.com,70,0,16410,-16340,16340,16.34,10,SE,,16340,credit,FRB not credited - leander. ,16340,16340,frb,leander(16340)

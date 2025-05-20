@@ -1,0 +1,4 @@
+user_id,currency,username,net_liab,opening,closing,diff,abs_diff,abs_diff_in_eur,mod,country,province,adjustment_amount,type,description,total_liability_amount,specific_liability_amount,liability_type,details
+5000001624,SEK,niklasbillgren@hotmail.com,295247,0,262,294985,294985,294.985,10,SE,,-294985,debit,Sportsbook wins not credited - altenar.,0,-294985, , 
+5000003648,SEK,kevinshaw@hotmail.se,218784,0,0,218784,218784,218.784,10,SE,,-218784,debit,Sportsbook win not credited - altenar.,0,-218784, , 
+5000003858,SEK,putten95@gmail.com,38262,0,80,38182,38182,38.182,10,SE,,-38182,debit,Sportsbook win not credited - altenar.,0,-38182, , 

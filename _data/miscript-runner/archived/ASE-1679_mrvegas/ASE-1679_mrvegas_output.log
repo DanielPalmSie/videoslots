@@ -1,0 +1,15 @@
+Script start time: '2025-04-28 11:40:30'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:853738  withdrawal_id:2338659 ext_id:JP5NZZS389E58 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 9SUGD74QDNL52
+  MTS transaction updated
+DONE ----- 
+
+```
+Script end time: '2025-04-28 11:40:31'
+FYI: @mihailo.ilic - script output for `mrvegas`
+Story 'ASE-1679': done

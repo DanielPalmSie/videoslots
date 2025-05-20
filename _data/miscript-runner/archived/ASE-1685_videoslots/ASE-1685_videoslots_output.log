@@ -1,0 +1,71 @@
+Script start time: '2025-04-30 11:07:55'
+```shell
+CRM Email Schedule 
+ Processing config id 178 to [1,5,6,8,12,13,15,19,20,22,23,26,27,29,30] - value updated from [8,14,17,18,21,22,24,25,28,29] to [1,5,6,8,12,13,15,19,20,22,23,26,27,29,30] 
+ Processing config id 179 to [28] - value updated from [30] to [28] 
+ Processing config id 180 to [] - value already set to  
+ Processing config id 181 to [] - value already set to  
+ Processing config id 182 to [] - value already set to  
+ Processing config id 183 to [1,8,15,22,29] - value updated from [3,10,17,24] to [1,8,15,22,29] 
+ Processing config id 188 to [] - value already set to  
+ Processing config id 208 to [25] - value updated from [27] to [25] 
+ Processing config id 256 to [] - value already set to  
+ Processing config id 259 to [] - value already set to  
+ Processing config id 262 to [] - value already set to  
+ Processing config id 265 to [] - value already set to  
+ Processing config id 268 to [] - value already set to  
+ Processing config id 272 to [] - value already set to  
+ Processing config id 366 to [] - value already set to  
+ Processing config id 367 to [11] - value updated from [13] to [11] 
+ Processing config id 411 to [2,21] - value updated from [7] to [2,21] 
+ Processing config id 412 to [9] - value updated from [14] to [9] 
+ Processing config id 413 to [16] - value updated from [21] to [16] 
+ Processing config id 414 to [23] - value updated from [28] to [23] 
+ Processing config id 415 to [14,30] - value updated from [2,11] to [14,30] 
+ Processing config id 416 to [26] - value updated from [9] to [26] 
+ Processing config id 417 to [7] - value updated from [16] to [7] 
+ Processing config id 418 to [] - value already set to  
+ Processing config id 419 to [] - value already set to  
+ Processing config id 420 to [19] - value updated from [23] to [19] 
+ Processing config id 421 to [] - value already set to  
+ Processing config id 422 to [] - value already set to  
+ Processing config id 423 to [12,28] - value updated from [18,30] to [12,28] 
+ Processing config id 424 to [5] - value updated from [4,25] to [5] 
+ Processing config id 425 to [] - value already set to  
+ Processing config id 889 to [] - value already set to  
+ Processing config id 890 to [] - value already set to  
+ Processing config id 891 to [22] - value updated from [17] to [22] 
+ Processing config id 892 to [] - value already set to  
+ Processing config id 893 to [1] - value updated from [10] to [1] 
+ Processing config id 894 to [] - value already set to  
+ Processing config id 895 to [15] - value updated from [24] to [15] 
+ Processing config id 896 to [] - value already set to  
+ Processing config id 897 to [] - value already set to  
+ Processing config id 898 to [] - value updated from [3] to [] 
+ Processing config id 899 to [] - value already set to  
+ Processing config id 900 to [] - value already set to  
+ Processing config id 901 to [8] - value updated from [] to [8] 
+ Processing config id 902 to [29] - value updated from [] to [29] 
+ Processing config id 903 to [] - value already set to  
+ Processing config id 920 to [7,14,21,28] - value updated from [2,9,16,23,30] to [7,14,21,28] 
+ Processing config id 80858 to [] - value already set to  
+ Processing config id 80859 to [] - value already set to  
+ Processing config id 80860 to [30] - value updated from [] to [30] 
+ Processing config id 80861 to [16] - value updated from [] to [16] 
+ Processing config id 80862 to [] - value already set to  
+ Processing config id 80863 to [] - value already set to  
+ Processing config id 80864 to [] - value already set to  
+ Processing config id 80865 to [] - value already set to  
+ Processing config id 80866 to [] - value already set to  
+ Processing config id 80867 to [] - value already set to  
+ Processing config id 80868 to [] - value already set to  
+ Processing config id 80869 to [] - value already set to  
+ Processing config id 80870 to [2] - value updated from [] to [2] 
+ Processing config id 80871 to [] - value updated from [18] to [] 
+ Processing config id 80872 to [] - value updated from [4] to [] 
+DONE 27 rows updated ----- 
+
+```
+Script end time: '2025-04-30 11:07:56'
+FYI: @andresmunoz - script output for `videoslots`
+Story 'ASE-1685': done

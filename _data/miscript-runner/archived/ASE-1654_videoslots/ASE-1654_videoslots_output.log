@@ -1,0 +1,41 @@
+Script start time: '2025-04-17 14:14:53'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:6598942  withdrawal_id:11682043 ext_id:TDH9LMK3XVJHU new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 6WQDNTXYH387E
+  MTS transaction updated
+user_id:6831928  withdrawal_id:12093459 ext_id:YD3CUTKG87WQE new_status:disapproved  refund:no
+  PW: Setting status from processing to disapproved
+  CASH: Entry to disapprove not set to be refunded
+  MTS: Set extra_id to B5M3Y5SASL3KQ
+  MTS transaction updated
+user_id:1966904850  withdrawal_id:11957381 ext_id:EDEWGTYCFYGUJ new_status:disapproved  refund:no
+  PW: Setting status from processing to disapproved
+  CASH: Entry to disapprove not set to be refunded
+  MTS: Set extra_id to N4HA7PCTUB5PJ
+  MTS transaction updated
+user_id:1967001619  withdrawal_id:11948230 ext_id:510059151012 new_status:approved  refund:no
+  PW: Setting status from processing to approved
+  PW: Setting ext_id from  to 510059151012
+  PW: Setting mts_id to 172783171
+  MTS no changes required
+user_id:6482200  withdrawal_id:11958691 ext_id:510050149439 new_status:approved  refund:no
+  PW: Setting status from processing to approved
+  PW: Setting ext_id from  to 510050149439
+  PW: Setting mts_id to 172783172
+  MTS no changes required
+user_id:1966997172  withdrawal_id:11685683 ext_id:157203072 new_status:disapproved  refund:yes
+  PW: Setting status from approved to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set status to -1 
+  MTS: Set extra_id to 14312931307
+  MTS transaction updated
+DONE ----- 
+
+```
+Script end time: '2025-04-17 14:14:53'
+FYI: @andres.munoz - script output for `videoslots`
+Story 'ASE-1654': done

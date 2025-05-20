@@ -1,0 +1,37 @@
+user_id,currency,username,net_liab,opening,closing,diff,abs_diff,abs_diff_in_eur,mod,country,province,adjustment_amount,type,description,total_liability_amount,specific_liability_amount,liability_type,details
+6655142,CAD,Kate-Fontaine-8-8@Hotmail.Com,-3195,6,2121,-5310,5310,53.1,1,CA,,5310,credit,"Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic, pragmatic, pragmatic. ",-90,-150,EOMBets,"pragmatic(30), pragmatic(30), pragmatic(30), pragmatic(30), pragmatic(30)"
+6655142,CAD,Kate-Fontaine-8-8@Hotmail.Com,,,,,,,,CA,,,,Win executed in Previous month but updated in Current month - pragmatic. ,,60,EOMWins,pragmatic(60)
+6655142,CAD,Kate-Fontaine-8-8@Hotmail.Com,,,,,,,,CA,,,,Pragmatic Promo Win.,,5400, , 
+6866995,CAD,elgros480@gmail.com,-2543,1343,0,-1200,1200,12,1,CA,,1200,credit,Pragmatic Promo Win.,1200,1200,frb,leander(309)
+1967084626,CAD,rebelmoon069@gmail.com,-99,101,1167,-1165,1165,11.65,1,CA,,1165,credit,FRB not credited - playngo. ,1165,1165,frb,playngo(1165)
+5758507,CAD,zambidi,3114,7,0,3121,3121,31.21,1,CA,,-3121,debit,FRB not credited - pragmatic. ,0,-3121, , 
+6725900,DKK,Lulle1969@icloud.com,10564,2318,20,12862,12862,12.862,10,DK,,-12862,debit,FRB not credited - leander. ,0,-12862, , 
+1967207780,DKK,nikolunde@gmail.com,12381,0,71,12310,12310,12.31,10,DK,,-12310,debit,FRB not credited - nolimit. ,-12310,-12310,frb,nolimit(12310)
+1967209271,DKK,mikkellyck@yahoo.com,46242,0,42,46200,46200,46.2,10,DK,,-46200,debit,Missing Win as per #557668398,0,-46200, , 
+1967105171,DKK,tokercard@gmail.com,25994,36,30,26000,26000,26,10,DK,,-26000,debit,Rollback adjustment - evolution,0,-26000, , 
+1967184957,DKK,manne113@hotmail.com,54139,5,44,54100,54100,54.1,10,DK,,-54100,debit,Rollback adjustment - evolution,0,-54100, , 
+6410941,EUR,tomasdarrirobertsson@gmail.com,412542,9,411003,1548,1548,15.48,1,IS,,-1548,debit,Bet and win executed in Previous month but updated in Current month - redtiger. ,-2320,-2400,EOMBets,"redtiger(800), redtiger(800), redtiger(800)"
+1967074882,EUR,davidhinojosa1996@icloud.com,5959,730,7889,-1200,1200,12,1,ES,,1200,credit,Bet executed in Previous month but updated in Current month - microgaming. ,1100,-100,EOMBets,microgaming(100)
+1967074882,EUR,davidhinojosa1996@icloud.com,,,,,,,,ES,,,,Win executed in Previous month but updated in Current month - microgaming. ,,1200,EOMWins,microgaming(1200)
+1967203226,EUR,Liljabara66@gmail.com,955,6,2461,-1500,1500,15,1,IS,,1500,credit,Pragmatic Promo Win.,1500,1500,frb,leander(74)
+1967031537,EUR,ralfraagas@gmail.com,312,3,1364,-1049,1049,10.49,1,IS,,1049,credit,Win executed in Previous month but updated in Current month - relax. ,1049,1049,EOMWins,relax(1049)
+6601669,EUR,bennyutsa89@gmail.com,2550,0,3635,-1085,1085,10.85,1,IS,,1085,credit,"Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic. ",-275,-375,EOMBets,"pragmatic(125), pragmatic(125), pragmatic(125)"
+6601669,EUR,bennyutsa89@gmail.com,,,,,,,,IS,,,,"Win executed in Previous month but updated in Current month - pragmatic, pragmatic. ",,100,EOMWins,"pragmatic(75), pragmatic(25)"
+6601669,EUR,bennyutsa89@gmail.com,,,,,,,,IS,,,,Pragmatic Promo Win.,,1360, , 
+1966915284,GBP,gary_f91@hotmail.com,6810,0,3010,3800,3800,38,1,GB,,-3800,debit,Sportsbook win not credited - altenar.,0,-3800, , 
+1967009395,GBP,bev0808@sky.com,5143,6,0,5149,5149,51.49,1,GB,,-5149,debit,"FRB not credited - pragmatic, pushgaming. ",0,-5149, , 
+5641086,GBP,nathanmexas45,1462,0,12,1450,1450,14.5,1,GB,,-1450,debit,Bet double debited - evolution.,0,-1450, , 
+1967058667,GBP,emma52365@yahoo.com,3078,20,2,3096,3096,30.96,1,GB,,-3096,debit,Wins not credited - pragmatic.,0,-3096, , 
+5304038,GBP,treend23,3020,24,14,3030,3030,30.3,1,GB,,-3030,debit,FRB not credited - pragmatic. ,0,-3030, , 
+1966992599,GBP,joanneveale@hotmail.co.uk,897,191,25,1063,1063,10.63,1,GB,,-1063,debit,Wins not credited - different providers.,0,-1063, , 
+1967075093,NZD,leathomsfamily@gmail.com,4,0,2544,-2540,2540,25.4,1,NZ,,2540,credit,FRB not credited - playngo. ,2540,2540,frb,playngo(2540)
+6750636,NZD,jahkrew@gmail.com,-1751,16,65,-1800,1800,18,1,NZ,,1800,credit,Pragmatic Promo Win.,0,1800, , 
+6229832,SEK,christianboden@gmail.com,16710111,403,16882166,-171652,171652,171.652,10,SE,,171652,credit,Win executed in Previous month but updated in Current month - nyx. ,170800,170800,EOMWins,nyx(170800)
+6556992,SEK,sandra.f.backstrom@hotmail.com,20003,0,3,20000,20000,20,10,SE,,-20000,debit,Bets double debited - playngo.,0,-20000, , 
+6533852,SEK,dysholm_82@hotmail.com,10973,78,51,11000,11000,11,10,SE,,-11000,debit,Bets double debited - isoftbet.,0,-11000, , 
+6326933,SEK,anci.hogman@gmail.com,92855,641,56,93440,93440,93.44,10,SE,,-93440,debit,"FRB not credited - leander, leander, nolimit, playngo. ",-93440,-93440,frb,"leander(100), leander(2340), nolimit(93440), playngo(6740)"
+6513174,SEK,magganlarsson2009@live.se,20055,37,92,20000,20000,20,10,SE,,-20000,debit,Rollback adjustments - playngo.,0,-20000, , 
+6672967,SEK,andreas_r_lundberg@hotmail.com,62151,99,17250,45000,45000,45,10,SE,,-45000,debit,Bet double debited - playngo+Rollback adjustment - playngo.,0,-45000, , 
+6393877,SEK,mikaelengman90@gmail.com,19996,94,90,20000,20000,20,10,SE,,-20000,debit,Bets double debited - qspin.,0,-20000, , 
+6318927,SEK,mogren86@gmail.com,14768,863,911,14720,14720,14.72,10,SE,,-14720,debit,FRB not credited - nolimit. ,-14720,-14720,frb,nolimit(14720)
+6327299,USD,malvarion@gmail.com,-1211,39,28,-1200,1200,12,1,CL,,1200,credit,Pragmatic Promo Win.,0,1200, , 

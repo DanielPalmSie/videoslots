@@ -1,0 +1,28 @@
+Script start time: '2025-04-22 12:25:00'
+```shell
+Token is closed successfully.
+Processing 2025-03-06...
+Token: 2046720
+2025-03-06 cancelled
+Token is closed successfully.
+DONE - report between 2025-03-06 and 2025-03-06 are now cancelled.
+You can now proceed with data regeneration for the same period
+Token is closed successfully.
+Processing 2025-03-12...
+Token: 2046723
+2025-03-12 cancelled
+Token is closed successfully.
+DONE - report between 2025-03-12 and 2025-03-12 are now cancelled.
+You can now proceed with data regeneration for the same period
+Token is closed successfully.
+Processing 2025-03-15...
+Token: 2046725
+2025-03-15 cancelled
+Token is closed successfully.
+DONE - report between 2025-03-15 and 2025-03-15 are now cancelled.
+You can now proceed with data regeneration for the same period
+
+```
+Script end time: '2025-04-22 12:25:45'
+FYI: @aleksandar.bekjarovski - script output for `videoslots_melita5`
+Story 'PHNX-5289_1': done

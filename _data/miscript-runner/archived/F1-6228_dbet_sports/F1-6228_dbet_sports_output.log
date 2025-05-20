@@ -1,0 +1,29 @@
+Script start time: '2025-05-06 10:07:38'
+```shell
+'/home/gitlab-runner/misc-script-runner/F1-6228_dbet_sports/add_ticket_id.php' -> '/var/www/user-service-sports-dbet/storage/add_ticket_id.php'
+EXECUTING COMMAND: php storage/add_ticket_id.php
+
+shard 0 updated
+
+shard 1 updated
+
+shard 2 updated
+
+shard 3 updated
+
+shard 4 updated
+
+shard 5 updated
+
+shard 6 updated
+
+shard 7 updated
+
+shard 8 updated
+
+shard 9 updated
+
+```
+Script end time: '2025-05-06 10:07:39'
+FYI: @denis.drozdecky @oliver.grech - script output for `dbet_sports`
+Story 'F1-6228': done

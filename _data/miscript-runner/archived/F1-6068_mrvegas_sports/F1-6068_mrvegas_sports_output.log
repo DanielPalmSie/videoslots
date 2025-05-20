@@ -1,0 +1,11 @@
+Script start time: '2025-04-28 09:33:39'
+```shell
+'/home/gitlab-runner/misc-script-runner/F1-6068_mrvegas_sports/F1_6068_Insert_Altenar_Refund.php' -> '/var/www/user-service-sports/storage/F1_6068_Insert_Altenar_Refund.php'
+Settling altenar ticket 136884 as void: 
+EXECUTING COMMAND:  sudo php /var/www/user-service-sports/storage/F1_6068_Insert_Altenar_Refund.php
+Done 
+
+```
+Script end time: '2025-04-28 09:33:39'
+FYI: @victoria.essien @oliver.grech - script output for `mrvegas_sports`
+Story 'F1-6068': done

@@ -1,0 +1,14 @@
+﻿id,year,month,user_id,type,main_cat,sub_cat,transactions,amount,currency,country,source,province,db,new_sub_cat
+55069985,2025,4,608127,debit,4,not-categorized,917,-18740,GBP,GB,0,,master,qspin
+55075067,2025,4,798647,debit,4,not-categorized,1,-21000,DKK,DK,0,,master,qspin
+55077110,2025,4,372607,debit,4,not-categorized,2,-35000,DKK,DK,0,,master,qspin
+55077873,2025,4,787017,debit,4,not-categorized,17,-5100,SEK,SE,0,,master,qspin
+55079387,2025,4,868407,debit,4,not-categorized,33,-3300,SEK,SE,0,,master,qspin
+55079911,2025,4,699857,debit,4,not-categorized,3,-28000,DKK,DK,0,,master,qspin
+55083886,2025,4,608127,credit,5,not-categorized,315,12966,GBP,GB,0,,master,qspin
+55088655,2025,4,798647,credit,5,not-categorized,1,19740,DKK,DK,0,,master,qspin
+55090612,2025,4,372607,credit,5,not-categorized,2,41748,DKK,DK,0,,master,qspin
+55091333,2025,4,787017,credit,5,not-categorized,9,760,SEK,SE,0,,master,qspin
+55092553,2025,4,887467,credit,5,not-categorized,1,120638,DKK,DK,0,,master,qspin
+55092826,2025,4,868407,credit,5,not-categorized,10,2710,SEK,SE,0,,master,qspin
+55093329,2025,4,699857,credit,5,not-categorized,3,15806,DKK,DK,0,,master,qspin

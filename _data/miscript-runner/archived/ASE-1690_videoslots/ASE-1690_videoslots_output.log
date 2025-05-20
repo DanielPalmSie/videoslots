@@ -1,0 +1,86 @@
+Script start time: '2025-05-02 09:47:37'
+```shell
+
+1. Non-categorised on master
++
+2. Non-categorised on shards
++
+Inserting liability adjustments from /home/gitlab-runner/misc-script-runner/ASE-1690_videoslots/liability_adjustments_vs.csv for 2025 4  ASE-1690
+Inserting PLR liability UserId:[6655142]  Amount:[debit CAD -150]  Description:[Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic, pragmatic, pragmatic. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6655142]  Amount:[CAD -150]  Description:[Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic, pragmatic, pragmatic. ] ... Inserted
+Inserting PLR liability UserId:[6655142]  Amount:[credit CAD 60]  Description:[Win executed in Previous month but updated in Current month - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6655142]  Amount:[CAD 60]  Description:[Win executed in Previous month but updated in Current month - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[6655142]  Amount:[credit CAD 5400]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6655142]  Amount:[CAD 5400]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[6866995]  Amount:[credit CAD 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6866995]  Amount:[CAD 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[1967084626]  Amount:[credit CAD 1165]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967084626]  Amount:[CAD 1165]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[5758507]  Amount:[debit CAD -3121]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5758507]  Amount:[CAD -3121]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[6725900]  Amount:[debit DKK -12862]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6725900]  Amount:[DKK -12862]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[1967207780]  Amount:[debit DKK -12310]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967207780]  Amount:[DKK -12310]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[1967209271]  Amount:[debit DKK -46200]  Description:[Missing Win as per #557668398] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967209271]  Amount:[DKK -46200]  Description:[Missing Win as per #557668398] ... Inserted
+Inserting PLR liability UserId:[1967105171]  Amount:[debit DKK -26000]  Description:[Rollback adjustment - evolution] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967105171]  Amount:[DKK -26000]  Description:[Rollback adjustment - evolution] ... Inserted
+Inserting PLR liability UserId:[1967184957]  Amount:[debit DKK -54100]  Description:[Rollback adjustment - evolution] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967184957]  Amount:[DKK -54100]  Description:[Rollback adjustment - evolution] ... Inserted
+Inserting PLR liability UserId:[6410941]  Amount:[debit EUR -2400]  Description:[Bet and win executed in Previous month but updated in Current month - redtiger.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6410941]  Amount:[EUR -2400]  Description:[Bet and win executed in Previous month but updated in Current month - redtiger.] ... Inserted
+Inserting PLR liability UserId:[1967074882]  Amount:[debit EUR -100]  Description:[Bet executed in Previous month but updated in Current month - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967074882]  Amount:[EUR -100]  Description:[Bet executed in Previous month but updated in Current month - microgaming.] ... Inserted
+Inserting PLR liability UserId:[1967074882]  Amount:[credit EUR 1200]  Description:[Win executed in Previous month but updated in Current month - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967074882]  Amount:[EUR 1200]  Description:[Win executed in Previous month but updated in Current month - microgaming.] ... Inserted
+Inserting PLR liability UserId:[1967203226]  Amount:[credit EUR 1500]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967203226]  Amount:[EUR 1500]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[1967031537]  Amount:[credit EUR 1049]  Description:[Win executed in Previous month but updated in Current month - relax.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967031537]  Amount:[EUR 1049]  Description:[Win executed in Previous month but updated in Current month - relax.] ... Inserted
+Inserting PLR liability UserId:[6601669]  Amount:[debit EUR -375]  Description:[Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6601669]  Amount:[EUR -375]  Description:[Bet executed in Previous month but updated in Current month - pragmatic, pragmatic, pragmatic. ] ... Inserted
+Inserting PLR liability UserId:[6601669]  Amount:[credit EUR 100]  Description:[Win executed in Previous month but updated in Current month - pragmatic, pragmatic. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6601669]  Amount:[EUR 100]  Description:[Win executed in Previous month but updated in Current month - pragmatic, pragmatic. ] ... Inserted
+Inserting PLR liability UserId:[6601669]  Amount:[credit EUR 1360]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6601669]  Amount:[EUR 1360]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[1966915284]  Amount:[debit GBP -3800]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1966915284]  Amount:[GBP -3800]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[1967009395]  Amount:[debit GBP -5149]  Description:[FRB not credited - pragmatic, pushgaming. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967009395]  Amount:[GBP -5149]  Description:[FRB not credited - pragmatic, pushgaming. ] ... Inserted
+Inserting PLR liability UserId:[5641086]  Amount:[debit GBP -1450]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5641086]  Amount:[GBP -1450]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting PLR liability UserId:[1967058667]  Amount:[debit GBP -3096]  Description:[Wins not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967058667]  Amount:[GBP -3096]  Description:[Wins not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[5304038]  Amount:[debit GBP -3030]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5304038]  Amount:[GBP -3030]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[1966992599]  Amount:[debit GBP -1063]  Description:[Wins not credited - different providers.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1966992599]  Amount:[GBP -1063]  Description:[Wins not credited - different providers.] ... Inserted
+Inserting PLR liability UserId:[1967075093]  Amount:[credit NZD 2540]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[1967075093]  Amount:[NZD 2540]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[6750636]  Amount:[credit NZD 1800]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6750636]  Amount:[NZD 1800]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[6229832]  Amount:[credit SEK 170800]  Description:[Win executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6229832]  Amount:[SEK 170800]  Description:[Win executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting PLR liability UserId:[6556992]  Amount:[debit SEK -20000]  Description:[Bets double debited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6556992]  Amount:[SEK -20000]  Description:[Bets double debited - playngo.] ... Inserted
+Inserting PLR liability UserId:[6533852]  Amount:[debit SEK -11000]  Description:[Bets double debited - isoftbet.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6533852]  Amount:[SEK -11000]  Description:[Bets double debited - isoftbet.] ... Inserted
+Inserting PLR liability UserId:[6326933]  Amount:[debit SEK -93440]  Description:[FRB not credited - leander, leander, nolimit, playngo. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6326933]  Amount:[SEK -93440]  Description:[FRB not credited - leander, leander, nolimit, playngo. ] ... Inserted
+Inserting PLR liability UserId:[6513174]  Amount:[debit SEK -20000]  Description:[Rollback adjustments - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6513174]  Amount:[SEK -20000]  Description:[Rollback adjustments - playngo.] ... Inserted
+Inserting PLR liability UserId:[6672967]  Amount:[debit SEK -45000]  Description:[Bet double debited - playngo+Rollback adjustment - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6672967]  Amount:[SEK -45000]  Description:[Bet double debited - playngo+Rollback adjustment - playngo.] ... Inserted
+Inserting PLR liability UserId:[6393877]  Amount:[debit SEK -20000]  Description:[Bets double debited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6393877]  Amount:[SEK -20000]  Description:[Bets double debited - qspin.] ... Inserted
+Inserting PLR liability UserId:[6318927]  Amount:[debit SEK -14720]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6318927]  Amount:[SEK -14720]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[6327299]  Amount:[credit USD 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[6327299]  Amount:[USD 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+DONE ----- 
+
+```
+Script end time: '2025-05-02 09:47:38'
+FYI: @petronelmorosanu - script output for `videoslots`
+Story 'ASE-1690': done

@@ -1,0 +1,6 @@
+user_id,withdrawal_id,ext_id,new_status,refund
+5266350,10314681,5448187263,disapproved,yes
+6708983,10126584,8498075693,disapproved,no
+6708983,234242342,xxx,approved,no
+5266350,7596751,70897d89-cbff-4d0e-8884-89221d22c9b8,disapproved,yes
+5266350,10390021,7894554978,approved,no

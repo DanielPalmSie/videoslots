@@ -1,0 +1,10 @@
+Script start time: '2025-04-03 13:38:38'
+```shell
+
+EXECUTING COMMAND: console ics:rectify 2025-03-01 2025-03-31 RUD
+Finish Rectifying Reports UID: `67eb319f41ed2`
+
+```
+Script end time: '2025-04-03 15:13:22'
+FYI: @rodrigo.ruiz - script output for `videoslots_admin2_melita5`
+Story 'PHNX-5209': done

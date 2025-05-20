@@ -1,0 +1,27 @@
+Script start time: '2025-03-10 09:02:20'
+```shell
+Updating MTS accounts for Instadebit and Neosurf has been started!
+Updating Instadebit accounts ext_id...
+Account 2441901 updated successfully.
+Account 2442299 updated successfully.
+Account 2442685 updated successfully.
+Account 2444128 updated successfully.
+Account 2444181 updated successfully.
+Account 2444656 updated successfully.
+Account 2444827 updated successfully.
+Account 2445740 updated successfully.
+Account 2445971 updated successfully.
+Account 2446680 updated successfully.
+Account 2446730 updated successfully.
+Account 2446746 updated successfully.
+Account 2449149 updated successfully.
+Account 2451304 updated successfully.
+Account 2451903 updated successfully.
+Account 2452544 updated successfully.
+Removing Neosurf accounts...
+Neosurf Accounts were failed to delete!
+
+```
+Script end time: '2025-03-10 09:02:20'
+FYI: @hamid.hossein - script output for `videoslots`
+Story 'BAN-12381': done

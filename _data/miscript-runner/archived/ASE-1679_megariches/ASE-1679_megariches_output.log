@@ -1,0 +1,20 @@
+Script start time: '2025-04-28 11:39:39'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:4000025971  withdrawal_id:42712 ext_id:FGBL8CVSGEJQU new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to EJ6FNZP3K9KB2
+  MTS transaction updated
+user_id:4000026262  withdrawal_id:44063 ext_id:SXGLF3UQ2STUE new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to H3GS6J4WSV4N4
+  MTS transaction updated
+DONE ----- 
+
+```
+Script end time: '2025-04-28 11:39:39'
+FYI: @mihailo.ilic - script output for `megariches`
+Story 'ASE-1679': done

@@ -1,0 +1,5 @@
+user_id,withdrawal_id,ext_id,new_status,refund
+6543775,12033416,MRZ6WX537H25C,disapproved,yes
+1966948864,11897575,UX4ALDVN6RHCY,disapproved,yes
+1967205649,11951980,L3W8UK35DCKG4,disapproved,yes
+1967001619,11948230,510059151012,approved,no

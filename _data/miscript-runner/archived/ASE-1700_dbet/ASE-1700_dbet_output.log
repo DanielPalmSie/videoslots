@@ -1,0 +1,16 @@
+Script start time: '2025-05-05 11:16:44'
+```shell
+
+Inserting liability adjustments from /home/gitlab-runner/misc-script-runner/ASE-1700_dbet/liability_adjustments_dbet.csv for 2025 4  ASE-1700
+Inserting PLR liability UserId:[5000001624]  Amount:[debit SEK -294985]  Description:[Sportsbook wins not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5000001624]  Amount:[SEK -294985]  Description:[Sportsbook wins not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[5000003648]  Amount:[debit SEK -218784]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5000003648]  Amount:[SEK -218784]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[5000003858]  Amount:[debit SEK -38182]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[5000003858]  Amount:[SEK -38182]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+DONE ----- 
+
+```
+Script end time: '2025-05-05 11:16:44'
+FYI: @petronelmorosanu - script output for `dbet`
+Story 'ASE-1700': done

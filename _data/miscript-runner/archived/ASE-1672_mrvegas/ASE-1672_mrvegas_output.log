@@ -1,0 +1,27 @@
+Script start time: '2025-04-24 11:04:04'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:740471  withdrawal_id:2305242 ext_id:Z3AWM85XU6MLL new_status:disapproved  refund:yes
+  WARNING: Pending withdrawal entry is already set with status disapproved - skipping entry!
+user_id:288077  withdrawal_id:2393618 ext_id:2SH9G5F9SPNLY new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to 6GNVHG9EPFL2Q
+  MTS transaction updated
+user_id:871411  withdrawal_id:2309082 ext_id:S4AT3BT77TFC8 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to XLN4U3X2B7H3N
+  MTS transaction updated
+user_id:874778  withdrawal_id:2324099 ext_id:510551868536 new_status:approved  refund:no
+  PW: Setting status from processing to approved
+  PW: Setting ext_id from  to 510551868536
+  PW: Setting mts_id to 172973039
+  MTS no changes required
+DONE ----- 
+
+```
+Script end time: '2025-04-24 11:04:04'
+FYI: @andres.munoz - script output for `mrvegas`
+Story 'ASE-1672': done

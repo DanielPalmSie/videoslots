@@ -1,0 +1,9 @@
+Script start time: '2025-04-28 11:36:45'
+```shell
+Executing command: artisan profile:re-link 5282109 videoslots 4000028342 megariches
+Profile successfully fixed. New c999_id: 52291
+
+```
+Script end time: '2025-04-28 11:36:47'
+FYI: @petronelmorosanu - script output for `scv`
+Story 'ASE-1676': done

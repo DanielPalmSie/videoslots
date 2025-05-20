@@ -1,0 +1,57 @@
+Script start time: '2025-04-30 11:04:41'
+```shell
+CRM Email Schedule 
+ Processing config id 178 to [2,7,9,14,16,21,23,28,30] - value updated from [2,9,16,23,25,30] to [2,7,9,14,16,21,23,28,30] 
+ Processing config id 179 to [] - value already set to  
+ Processing config id 180 to [] - value already set to  
+ Processing config id 181 to [] - value already set to  
+ Processing config id 182 to [] - value already set to  
+ Processing config id 183 to [] - value already set to  
+ Processing config id 188 to [] - value already set to  
+ Processing config id 208 to [25] - value updated from [27] to [25] 
+ Processing config id 256 to [] - value already set to  
+ Processing config id 259 to [] - value already set to  
+ Processing config id 262 to [] - value already set to  
+ Processing config id 265 to [] - value already set to  
+ Processing config id 268 to [] - value already set to  
+ Processing config id 272 to [] - value already set to  
+ Processing config id 366 to [] - value already set to  
+ Processing config id 367 to [] - value already set to  
+ Processing config id 411 to [] - value already set to  
+ Processing config id 412 to [] - value already set to  
+ Processing config id 413 to [] - value already set to  
+ Processing config id 414 to [] - value already set to  
+ Processing config id 415 to [] - value already set to  
+ Processing config id 416 to [] - value already set to  
+ Processing config id 417 to [] - value already set to  
+ Processing config id 418 to [] - value already set to  
+ Processing config id 419 to [] - value already set to  
+ Processing config id 420 to [] - value already set to  
+ Processing config id 421 to [] - value already set to  
+ Processing config id 422 to [] - value already set to  
+ Processing config id 423 to [] - value already set to  
+ Processing config id 424 to [] - value already set to  
+ Processing config id 425 to [] - value already set to  
+ Processing config id 889 to [] - value already set to  
+ Processing config id 890 to [] - value already set to  
+ Processing config id 891 to [] - value already set to  
+ Processing config id 892 to [] - value already set to  
+ Processing config id 893 to [] - value already set to  
+ Processing config id 894 to [] - value already set to  
+ Processing config id 895 to [] - value already set to  
+ Processing config id 896 to [] - value already set to  
+ Processing config id 897 to [] - value already set to  
+ Processing config id 898 to [] - value already set to  
+ Processing config id 899 to [] - value already set to  
+ Processing config id 917 to [] - value already set to  
+ Processing config id 918 to [] - value already set to  
+ Processing config id 919 to [] - value already set to  
+ Processing config id 920 to [] - value already set to  
+ Processing config id 921 to [] - value already set to  
+ Processing config id 1202 to [] - value already set to  
+DONE 2 rows updated ----- 
+
+```
+Script end time: '2025-04-30 11:04:41'
+FYI: @andresmunoz - script output for `kungaslottet`
+Story 'ASE-1685': done

@@ -1,0 +1,11 @@
+Script start time: '2025-04-28 14:56:58'
+```shell
+Executing command: artisan profile:unlink 1967201574 videoslots
+New customer id: 795301
+Executing command: artisan profile:re-link 4000002699 megariches 1967054687 videoslots
+Profile successfully fixed. New c999_id: 627673
+
+```
+Script end time: '2025-04-28 14:57:01'
+FYI: @YuriVelkis - script output for `scv`
+Story 'ASE-1681': done

@@ -1,0 +1,28 @@
+Script start time: '2025-05-05 11:15:07'
+```shell
+
+Inserting liability adjustments from /home/gitlab-runner/misc-script-runner/ASE-1698_megariches/liability_adjustments_mgr.csv for 2025 4  ASE-1698
+Inserting PLR liability UserId:[4000036941]  Amount:[debit GBP -5000]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000036941]  Amount:[GBP -5000]  Description:[Bonus balance issue.] ... Inserted
+Inserting PLR liability UserId:[4000036602]  Amount:[debit GBP -5000]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000036602]  Amount:[GBP -5000]  Description:[Bonus balance issue.] ... Inserted
+Inserting PLR liability UserId:[4000038333]  Amount:[debit GBP -2499]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000038333]  Amount:[GBP -2499]  Description:[Bonus balance issue.] ... Inserted
+Inserting PLR liability UserId:[4000036904]  Amount:[debit GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000036904]  Amount:[GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+Inserting PLR liability UserId:[4000030654]  Amount:[debit GBP -2000]  Description:[Win not credited - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000030654]  Amount:[GBP -2000]  Description:[Win not credited - microgaming.] ... Inserted
+Inserting PLR liability UserId:[4000036465]  Amount:[credit GBP 3900]  Description:[Pragmatic promo win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000036465]  Amount:[GBP 3900]  Description:[Pragmatic promo win.] ... Inserted
+Inserting PLR liability UserId:[4000036576]  Amount:[debit GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000036576]  Amount:[GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+Inserting PLR liability UserId:[4000031558]  Amount:[debit GBP -1795]  Description:[FRB not credited -  playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000031558]  Amount:[GBP -1795]  Description:[FRB not credited -  playngo.] ... Inserted
+Inserting PLR liability UserId:[4000035369]  Amount:[debit GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[4000035369]  Amount:[GBP -2500]  Description:[Bonus balance issue.] ... Inserted
+DONE ----- 
+
+```
+Script end time: '2025-05-05 11:15:08'
+FYI: @YuriVelkis - script output for `megariches`
+Story 'ASE-1698': done

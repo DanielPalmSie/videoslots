@@ -1,0 +1,14 @@
+﻿id,year,month,user_id,type,main_cat,sub_cat,transactions,amount,currency,country,source,province,db,new_sub_cat
+19700558,2025,4,608127,debit,4,not-categorized,917,-18740,GBP,GB,0,,shard,qspin
+19751378,2025,4,798647,debit,4,not-categorized,1,-21000,DKK,DK,0,,shard,qspin
+19771808,2025,4,372607,debit,4,not-categorized,2,-35000,DKK,DK,0,,shard,qspin
+19779438,2025,4,787017,debit,4,not-categorized,17,-5100,SEK,SE,0,,shard,qspin
+19794578,2025,4,868407,debit,4,not-categorized,33,-3300,SEK,SE,0,,shard,qspin
+19799818,2025,4,699857,debit,4,not-categorized,3,-28000,DKK,DK,0,,shard,qspin
+19839568,2025,4,608127,credit,5,not-categorized,315,12966,GBP,GB,0,,shard,qspin
+19887258,2025,4,798647,credit,5,not-categorized,1,19740,DKK,DK,0,,shard,qspin
+19906828,2025,4,372607,credit,5,not-categorized,2,41748,DKK,DK,0,,shard,qspin
+19914038,2025,4,787017,credit,5,not-categorized,9,760,SEK,SE,0,,shard,qspin
+19926238,2025,4,887467,credit,5,not-categorized,1,120638,DKK,DK,0,,shard,qspin
+19928968,2025,4,868407,credit,5,not-categorized,10,2710,SEK,SE,0,,shard,qspin
+19933998,2025,4,699857,credit,5,not-categorized,3,15806,DKK,DK,0,,shard,qspin

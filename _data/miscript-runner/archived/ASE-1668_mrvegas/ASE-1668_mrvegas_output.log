@@ -1,0 +1,11 @@
+Script start time: '2025-04-24 10:57:01'
+```shell
+Adding missing documents for user ID 694989
+Added document:   id: [2918240]  user_id: [694989]   tag: [idcard-pic]   created_at: [2025-04-24 10:57:02]   status: [0]  
+Added document:   id: []  user_id: []   tag: []   created_at: []   status: []  
+Added document:   id: [2918242]  user_id: [694989]   tag: [bankpic]   created_at: [2025-04-24 10:57:04]   status: [0]  
+
+```
+Script end time: '2025-04-24 10:57:04'
+FYI: @petronelmorosanu - script output for `mrvegas`
+Story 'ASE-1668': done

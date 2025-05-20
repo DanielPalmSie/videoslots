@@ -1,0 +1,154 @@
+Script start time: '2025-05-02 13:01:58'
+```shell
+
+1. Non-categorised on master
++++++++++++++
+2. Non-categorised on shards
++++++++++++++
+Inserting liability adjustments from /home/gitlab-runner/misc-script-runner/ASE-1694_mrvegas/liability_adjustments_mrv.csv for 2025 4  ASE-1694
+Inserting PLR liability UserId:[863418]  Amount:[debit CAD -4370]  Description:[Multiple wins not credited - microgaming.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[863418]  Amount:[CAD -4370]  Description:[Multiple wins not credited - microgaming.] ... Inserted
+Inserting PLR liability UserId:[772929]  Amount:[debit CAD -340]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[772929]  Amount:[CAD -340]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[236422]  Amount:[credit EUR 4000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[236422]  Amount:[EUR 4000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[574472]  Amount:[debit EUR -1048]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[574472]  Amount:[EUR -1048]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[249852]  Amount:[credit EUR 1038]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[249852]  Amount:[EUR 1038]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[623533]  Amount:[debit EUR -120]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[623533]  Amount:[EUR -120]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[623533]  Amount:[credit EUR 2120]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[623533]  Amount:[EUR 2120]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[866583]  Amount:[credit EUR 2000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[866583]  Amount:[EUR 2000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[683945]  Amount:[debit EUR -3535]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[683945]  Amount:[EUR -3535]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[869050]  Amount:[debit GBP -21600]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[869050]  Amount:[GBP -21600]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[876740]  Amount:[credit GBP 10000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[876740]  Amount:[GBP 10000]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[787160]  Amount:[debit GBP -500]  Description:[Bet executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[787160]  Amount:[GBP -500]  Description:[Bet executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting PLR liability UserId:[787160]  Amount:[credit GBP 4500]  Description:[Win executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[787160]  Amount:[GBP 4500]  Description:[Win executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting PLR liability UserId:[681770]  Amount:[debit GBP -32]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[681770]  Amount:[GBP -32]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[681770]  Amount:[debit GBP -1955]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[681770]  Amount:[GBP -1955]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[602801]  Amount:[debit GBP -20]  Description:[Bet executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[602801]  Amount:[GBP -20]  Description:[Bet executed in Previous month but updated in Current month - nyx.] ... Inserted
+Inserting PLR liability UserId:[602801]  Amount:[credit GBP 5390]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[602801]  Amount:[GBP 5390]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[759891]  Amount:[debit GBP -3070]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[759891]  Amount:[GBP -3070]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[877411]  Amount:[debit GBP -2100]  Description:[Multiple wins not credited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[877411]  Amount:[GBP -2100]  Description:[Multiple wins not credited - evolution.] ... Inserted
+Inserting PLR liability UserId:[617551]  Amount:[debit GBP -2002]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[617551]  Amount:[GBP -2002]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[871221]  Amount:[credit GBP 1350]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[871221]  Amount:[GBP 1350]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[317631]  Amount:[debit GBP -1034]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[317631]  Amount:[GBP -1034]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[866932]  Amount:[debit GBP -5000]  Description:[Sportsbook manual refunds.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[866932]  Amount:[GBP -5000]  Description:[Sportsbook manual refunds.] ... Inserted
+Inserting PLR liability UserId:[664142]  Amount:[credit GBP 3500]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[664142]  Amount:[GBP 3500]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[847992]  Amount:[debit GBP -1725]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[847992]  Amount:[GBP -1725]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[880612]  Amount:[debit GBP -1220]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[880612]  Amount:[GBP -1220]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[766442]  Amount:[debit GBP -1200]  Description:[Win not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[766442]  Amount:[GBP -1200]  Description:[Win not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[845262]  Amount:[debit GBP -1033]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[845262]  Amount:[GBP -1033]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[888752]  Amount:[credit GBP 1020]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[888752]  Amount:[GBP 1020]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[645303]  Amount:[debit GBP -3757]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[645303]  Amount:[GBP -3757]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[771503]  Amount:[debit GBP -3377]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[771503]  Amount:[GBP -3377]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[585523]  Amount:[debit GBP -2610]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[585523]  Amount:[GBP -2610]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[868764]  Amount:[credit GBP 9992]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[868764]  Amount:[GBP 9992]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[771734]  Amount:[credit GBP 2524]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[771734]  Amount:[GBP 2524]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[501724]  Amount:[debit GBP -2]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[501724]  Amount:[GBP -2]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[501724]  Amount:[debit GBP -2500]  Description:[Win not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[501724]  Amount:[GBP -2500]  Description:[Win not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[876494]  Amount:[credit GBP 1584]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[876494]  Amount:[GBP 1584]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[292514]  Amount:[debit GBP -1290]  Description:[Win not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[292514]  Amount:[GBP -1290]  Description:[Win not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[853745]  Amount:[credit GBP 58334]  Description:[Winning bet on the game Caboolture FC vs. Southside Eagles on the 4th of April was paid out three times instead of once.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[853745]  Amount:[GBP 58334]  Description:[Winning bet on the game Caboolture FC vs. Southside Eagles on the 4th of April was paid out three times instead of once.] ... Inserted
+Inserting PLR liability UserId:[652675]  Amount:[debit GBP -7322]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[652675]  Amount:[GBP -7322]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[883855]  Amount:[debit GBP -2094]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[883855]  Amount:[GBP -2094]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[424565]  Amount:[credit GBP 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[424565]  Amount:[GBP 1200]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[885136]  Amount:[debit GBP -73418]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[885136]  Amount:[GBP -73418]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[868296]  Amount:[debit GBP -15000]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[868296]  Amount:[GBP -15000]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[698846]  Amount:[debit GBP -3680]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[698846]  Amount:[GBP -3680]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[597066]  Amount:[debit GBP -200]  Description:[Bet executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[597066]  Amount:[GBP -200]  Description:[Bet executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting PLR liability UserId:[597066]  Amount:[credit GBP 2100]  Description:[Win executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[597066]  Amount:[GBP 2100]  Description:[Win executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting PLR liability UserId:[859787]  Amount:[debit GBP -6522]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[859787]  Amount:[GBP -6522]  Description:[FRB not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[886527]  Amount:[debit GBP -3551]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[886527]  Amount:[GBP -3551]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[748067]  Amount:[debit GBP -1812]  Description:[Win executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[748067]  Amount:[GBP -1812]  Description:[Win executed in Previous month but updated in Current month - pariplay.] ... Inserted
+Inserting PLR liability UserId:[717427]  Amount:[debit GBP -1195]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[717427]  Amount:[GBP -1195]  Description:[Multiple wins not credited - pragmatic.] ... Inserted
+Inserting PLR liability UserId:[739478]  Amount:[credit GBP 5100]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[739478]  Amount:[GBP 5100]  Description:[Pragmatic Promo Win.] ... Inserted
+Inserting PLR liability UserId:[504318]  Amount:[debit GBP -4284]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[504318]  Amount:[GBP -4284]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[665148]  Amount:[debit GBP -1699]  Description:[FRB not credited - leander.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[665148]  Amount:[GBP -1699]  Description:[FRB not credited - leander.] ... Inserted
+Inserting PLR liability UserId:[885019]  Amount:[debit GBP -15833]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[885019]  Amount:[GBP -15833]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[864049]  Amount:[debit GBP -2]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[864049]  Amount:[GBP -2]  Description:[FRB not credited - playngo.] ... Inserted
+Inserting PLR liability UserId:[864049]  Amount:[debit GBP -14240]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[864049]  Amount:[GBP -14240]  Description:[Multiple wins not credited - nyx.] ... Inserted
+Inserting PLR liability UserId:[886599]  Amount:[debit GBP -4800]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[886599]  Amount:[GBP -4800]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[695689]  Amount:[debit GBP -2400]  Description:[Win not credited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[695689]  Amount:[GBP -2400]  Description:[Win not credited - evolution.] ... Inserted
+Inserting PLR liability UserId:[306969]  Amount:[debit GBP -1858]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[306969]  Amount:[GBP -1858]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[572079]  Amount:[debit GBP -1100]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[572079]  Amount:[GBP -1100]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting PLR liability UserId:[631300]  Amount:[debit SEK -29020]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[631300]  Amount:[SEK -29020]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[361653]  Amount:[debit SEK -4750]  Description:[FRB not credited - leander, leander, nolimit. ] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[361653]  Amount:[SEK -4750]  Description:[FRB not credited - leander, leander, nolimit. ] ... Inserted
+Inserting PLR liability UserId:[361653]  Amount:[credit SEK 21940]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[361653]  Amount:[SEK 21940]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[409263]  Amount:[debit SEK -16220]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[409263]  Amount:[SEK -16220]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[460545]  Amount:[debit SEK -23510]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[460545]  Amount:[SEK -23510]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting PLR liability UserId:[358617]  Amount:[debit SEK -450]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[358617]  Amount:[SEK -450]  Description:[FRB not credited - nolimit.] ... Inserted
+Inserting PLR liability UserId:[358617]  Amount:[debit SEK -12800]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[358617]  Amount:[SEK -12800]  Description:[Bet double debited - evolution.] ... Inserted
+Inserting PLR liability UserId:[882307]  Amount:[debit SEK -12847]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[882307]  Amount:[SEK -12847]  Description:[Sportsbook win not credited - altenar.] ... Inserted
+Inserting PLR liability UserId:[274159]  Amount:[debit SEK -14740]  Description:[FRB not credited - qspin.] ... Inserted
+Inserting Type 91 cash transaction dated [2025-4-01 01:01:01] for UserId:[274159]  Amount:[SEK -14740]  Description:[FRB not credited - qspin.] ... Inserted
+DONE ----- 
+
+```
+Script end time: '2025-05-02 13:01:59'
+FYI: @YuriVelkis - script output for `mrvegas`
+Story 'ASE-1694': done

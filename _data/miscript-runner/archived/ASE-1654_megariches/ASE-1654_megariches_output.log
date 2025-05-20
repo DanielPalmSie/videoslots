@@ -1,0 +1,27 @@
+Script start time: '2025-04-17 14:13:11'
+```shell
+Updating Withdrawal Details
+-------------
+user_id:4000012777  withdrawal_id:35018 ext_id:98USMHDNZR7M6 new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to WC5BFK6PEBZVY
+  MTS transaction updated
+user_id:4000023210  withdrawal_id:36371 ext_id:92Z4XEUVBRK5N new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to ALU689XE58JZL
+  MTS transaction updated
+user_id:4000033287  withdrawal_id:33628 ext_id:KTQH9352H5Y7E new_status:disapproved  refund:yes
+  PW: Setting status from processing to disapproved
+  CASH: User refunded for disapproved entry
+  MTS: Set extra_id to YY2ZJL25XEG7A
+  MTS transaction updated
+user_id:4000024638  withdrawal_id:169675952 ext_id:503038409403 new_status:approved  refund:no
+  WARNING: No withdrawal record found for user_id: 4000024638 and withdrawal_id = 169675952 - skipping entry!
+DONE ----- 
+
+```
+Script end time: '2025-04-17 14:13:11'
+FYI: @andres.munoz - script output for `megariches`
+Story 'ASE-1654': done

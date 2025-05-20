@@ -1,0 +1,11 @@
+Script start time: '2025-04-17 10:37:49'
+```shell
+Executing command: artisan profile:unlink 783734 mrvegas
+New customer id: 792027
+Executing command: artisan profile:re-link 783734 mrvegas 1967067025 videoslots
+Profile successfully fixed. New c999_id: 731671
+
+```
+Script end time: '2025-04-17 10:37:52'
+FYI: @petronelmorosanu - script output for `scv`
+Story 'ASE-1649': done

@@ -1,0 +1,14 @@
+Script start time: '2025-04-22 09:59:23'
+```shell
+'/home/gitlab-runner/misc-script-runner/F1-6039_kungaslottet_sports/bets_rounds_fixtures.php' -> '/var/www/user-service-sports-ks/storage/bets_rounds_fixtures.php'
+'/home/gitlab-runner/misc-script-runner/F1-6039_kungaslottet_sports/roundsFixtures.json' -> '/var/www/user-service-sports-ks/storage/roundsFixtures.json'
+EXECUTING COMMAND: php storage/bets_rounds_fixtures.php
+Data successfully retrieved and decoded
+Data successfully retrieved from poolx_bets table
+Structured array successfully created
+Done, table data should be successfully created
+
+```
+Script end time: '2025-04-22 09:59:34'
+FYI: @denis.drozdecky @oliver.grech - script output for `kungaslottet_sports`
+Story 'F1-6039': done

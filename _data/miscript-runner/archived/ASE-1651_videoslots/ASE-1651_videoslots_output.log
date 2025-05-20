@@ -1,0 +1,71 @@
+Script start time: '2025-04-17 10:43:20'
+```shell
+CRM Email Schedule 
+ Processing config id 178 to [8,14,17,18,21,22,24,25,28,29] - value updated from [8,14,17] to [8,14,17,18,21,22,24,25,28,29] 
+ Processing config id 179 to [30] - value already set to 30 
+ Processing config id 180 to [] - value already set to  
+ Processing config id 181 to [] - value already set to  
+ Processing config id 182 to [] - value already set to  
+ Processing config id 183 to [3,10,17,24] - value already set to 3,10,17,24 
+ Processing config id 188 to [] - value already set to  
+ Processing config id 208 to [27] - value already set to 27 
+ Processing config id 256 to [] - value already set to  
+ Processing config id 259 to [] - value already set to  
+ Processing config id 262 to [] - value already set to  
+ Processing config id 265 to [] - value already set to  
+ Processing config id 268 to [] - value already set to  
+ Processing config id 272 to [] - value already set to  
+ Processing config id 366 to [] - value already set to  
+ Processing config id 367 to [13] - value already set to 13 
+ Processing config id 411 to [7] - value already set to 7 
+ Processing config id 412 to [14] - value already set to 14 
+ Processing config id 413 to [21] - value already set to 21 
+ Processing config id 414 to [28] - value already set to 28 
+ Processing config id 415 to [2,11] - value already set to 2,11 
+ Processing config id 416 to [9] - value already set to 9 
+ Processing config id 417 to [16] - value already set to 16 
+ Processing config id 418 to [] - value already set to  
+ Processing config id 419 to [] - value already set to  
+ Processing config id 420 to [23] - value already set to 23 
+ Processing config id 421 to [] - value already set to  
+ Processing config id 422 to [] - value already set to  
+ Processing config id 423 to [18,30] - value already set to 18,30 
+ Processing config id 424 to [4,25] - value already set to 4,25 
+ Processing config id 425 to [] - value already set to  
+ Processing config id 889 to [] - value already set to  
+ Processing config id 890 to [] - value already set to  
+ Processing config id 891 to [17] - value already set to 17 
+ Processing config id 892 to [] - value already set to  
+ Processing config id 893 to [10] - value already set to 10 
+ Processing config id 894 to [] - value already set to  
+ Processing config id 895 to [24] - value already set to 24 
+ Processing config id 896 to [] - value already set to  
+ Processing config id 897 to [] - value already set to  
+ Processing config id 898 to [3] - value already set to 3 
+ Processing config id 899 to [] - value already set to  
+ Processing config id 900 to [] - value already set to  
+ Processing config id 901 to [] - value already set to  
+ Processing config id 902 to [] - value already set to  
+ Processing config id 903 to [] - value already set to  
+ Processing config id 920 to [2,9,16,23,30] - value already set to 2,9,16,23,30 
+ Processing config id 80858 to [] - value already set to  
+ Processing config id 80859 to [] - value already set to  
+ Processing config id 80860 to [] - value already set to  
+ Processing config id 80861 to [] - value already set to  
+ Processing config id 80862 to [] - value already set to  
+ Processing config id 80863 to [] - value already set to  
+ Processing config id 80864 to [] - value already set to  
+ Processing config id 80865 to [] - value already set to  
+ Processing config id 80866 to [] - value already set to  
+ Processing config id 80867 to [] - value already set to  
+ Processing config id 80868 to [] - value already set to  
+ Processing config id 80869 to [] - value already set to  
+ Processing config id 80870 to [] - value already set to  
+ Processing config id 80871 to [18] - value already set to 18 
+ Processing config id 80872 to [4] - value already set to 4 
+DONE 1 rows updated ----- 
+
+```
+Script end time: '2025-04-17 10:43:20'
+FYI: @andresmunoz - script output for `videoslots`
+Story 'ASE-1651': done

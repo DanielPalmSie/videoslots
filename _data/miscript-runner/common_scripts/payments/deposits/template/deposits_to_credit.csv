@@ -1,0 +1,5 @@
+user_id,amount,reference_id,supplier,sub_supplier,deposit_exists,mts_id
+6357599,1000,4795538423,,,no,
+6357599,1000,4795528978,,,no,
+6719925,5000,1316975605,paymentiq,,no,144513340
+6385231,1000,1317289959,paymentiq,,no,144519867
